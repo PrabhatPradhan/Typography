@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+.img{ 
+    width:fit-content;
+    margin: auto;
+}
+.pra1{
+    color: #00000099;
+     width: 30%;
+     text-align: center;
+     text-align: justify;
+     margin: auto;
+     
+}
+.pra2{
+    width: 30%;
+    text-align: center;
+    text-align: justify;
+    margin: auto;
+    color: #00000099;
+}
+.video2{
+    width: 30%;
+    margin: auto;
+}
+
+   
